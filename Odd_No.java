@@ -1,5 +1,7 @@
-package anushka.com;
 
+// Finding odd number
+
+package anushka.com;
 public class Odd_No {
 	public static void main(String[] args) {
 		int i=1;
